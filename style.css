@@ -38,10 +38,11 @@ img {
 }
 
 #demo {
-    margin-top: 40px;
+    padding-top: 40px;
     text-align: center;
     font-size: 60px;
     font-family: 'Arial Narrow', sans-serif;
+    font-weight: bold;
     text-shadow: 0px 0px 20px grey;
     color: whitesmoke;
 }
