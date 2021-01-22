@@ -37,10 +37,10 @@ img {
     height: auto;
 }
 
-demo {
+.demo {
     padding-top: 70px;
     text-align: center;
-    font-size: 60px;
+    font-size: 20px;
     font-family: 'Arial Narrow', sans-serif;
     font-weight: bold;
     text-shadow: 0px 0px 20px grey;
