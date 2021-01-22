@@ -35,10 +35,9 @@ img {
     padding-top: 150px;
     max-width: 100%;
     height: auto;
-    padding-bottom: 50px;
 }
 
-#demo {
+.demo {
     padding-top: 70px;
     text-align: center;
     font-size: 60px;
