@@ -8,13 +8,13 @@ div.header {
   }
 
 h1 {
-    animation: header 1s;
-    color:whitesmoke;
+    animation: header 2s;
+    color:rgb(199, 199, 199);
     font-family: 'Arial Narrow', sans-serif;
     padding-top: 20px;
     padding-left: 50px;
-    letter-spacing: 5px;
-    text-shadow: 0px 0px 20px grey;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px 10px grey;
     
 }
 
@@ -38,12 +38,13 @@ img {
 }
 
 .demo {
-    padding-top: 70px;
-    text-align: center;
-    font-size: 12px;
+    display: relative;
+    padding-top: 50px;
+    letter-spacing: 5px;
+    font-size: 20px;
     font-family: 'Arial Narrow', sans-serif;
-    text-shadow: 0px 0px 20px grey;
-    color: whitesmoke;
+    text-shadow: 2px 2px 2px grey;
+    color: rgb(185, 185, 185);
 }
 
 footer {
